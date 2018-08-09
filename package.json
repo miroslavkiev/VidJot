@@ -1,0 +1,11 @@
+{
+  "name": "vidjot",
+  "version": "0.0.1",
+  "private": true,
+  "main": "app.js",
+  "scripts": {},
+  "dependencies": {
+    "express": "~4.16.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
